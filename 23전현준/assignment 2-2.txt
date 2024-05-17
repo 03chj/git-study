@@ -5,4 +5,4 @@ Changes to be committed:
   (use "git restore --staged <file>..." to unstage)
         modified:   assignment
 
-수정
+수정함
